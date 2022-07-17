@@ -1,0 +1,26 @@
+Primeiro carregar as bibliotecas
+int main (void)
+Criar o loop (do)
+Criar a condição (while)
+Esses servem para que o programa continue perguntando caso o valor seja menor do que 1
+Colocar todas os blocos pra direita
+Tem que fazer de uma forma em que os pontos sejam impressos de forma decrescente
+Ex com 8 de altura:
+    Imprimir 7 pontos, 1 hashtag
+    Imprimir 6 pontos, 2 hashtag
+    Imprimir 5 pontos, 3 hashtag
+    Imprimir 4 pontos, 4 hashtag
+A somatória dos pontos e das hashtags sempre vai ser 8
+Condição é p + i = 8
+se o I aumenta o P diminui
+total = 8
+p = 7
+i = 1
+7 + 1
+6 + 2
+5 + 3
+4 + 4
+3 + 5
+2 + 6
+1 + 7
+0 + 8
